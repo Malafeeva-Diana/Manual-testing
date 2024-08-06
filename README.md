@@ -1538,7 +1538,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 
-**Задача 2 (Чек-лист на верстку)**
+**Задача 1 (Чек-лист на верстку)**
 
 ![image](https://github.com/user-attachments/assets/5bd15757-9ebf-43b2-a8c3-67a4a7b5ce7f)
 ![image](https://github.com/user-attachments/assets/274efe44-5147-4f30-af00-3a0e7963ada2)
@@ -1550,7 +1550,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 
-**Задача 3 (Чек-лист «Способ оплаты» и «Добавление карты»)**
+**Задача 2 (Чек-лист «Способ оплаты» и «Добавление карты»)**
 
 ![image](https://github.com/user-attachments/assets/d2c4aab7-1433-43e7-9c07-35a831109e27)
 
@@ -1566,19 +1566,13 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
-**Задача 3 (Тест-кейсы на логику бронирования)**
+**Задача 4 (Тест-кейсы на логику бронирования)**
 
 ![image](https://github.com/user-attachments/assets/7391dd8c-0a60-4170-95bd-93195742f8ce)
 ![image](https://github.com/user-attachments/assets/d38c75d5-d124-4c90-a47c-c16fb91a2c4c)
 
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
-
-
-
-**Задача 4 (выполнение тестов)**
-
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=899462569)
 
 **Задача 5 (Чек-лист на аэротакси)**
 
