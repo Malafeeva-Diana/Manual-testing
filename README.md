@@ -1609,24 +1609,14 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (подготовка чек-листа для тестирования мобильного приложения на часть требований, выделенных жирным шрифтом)**
 
-1111111111111111111111111111111111111111111111
+![image](https://github.com/user-attachments/assets/6ece1d60-2831-4de6-9aee-fa5224d17c9c)
+Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
 
 
 **Задача 3 (тестирование мобильного приложения в эмуляторе с помощью Android Studio, баг-репорты)**
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1kUMrxc_g4ETnI8Z0WZFfWV03ZifE-WCXMFM0itfoig0/edit#gid=2006427015)
 
-
-**Задача 5** (выполнение тестов)
-
-![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/be289b01-aadc-40ca-906a-f1595997c75a)
-
-[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
-
-
-**Задача 7**
-
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1kUMrxc_g4ETnI8Z0WZFfWV03ZifE-WCXMFM0itfoig0/edit#gid=857523888)
 
 
 #
@@ -1660,7 +1650,9 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 6. Для каждой карточки выведи ее название и количество продуктов (productsCount) для этой карточки. Результат отсортируй по названию карточки.
 Подсказка: в запросе используй оператор группировки и объединение двух таблиц, card_model и kit_model.
 
-![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/7b2e0397-91b7-4198-9627-bcf478ac12e5)
+![image](https://github.com/user-attachments/assets/36b469ec-9e28-429d-8b67-b6177d801c3b)
+![image](https://github.com/user-attachments/assets/18e4156f-e5f9-480b-8e92-ea2b68312906)
+
 
 #
 </details>
@@ -1678,21 +1670,25 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (2. разработка mindmap для формы заказа самоката)**
 
-![Mindmap](https://github.com/Diana-Malafeeva/-/assets/162698888/4d2786f7-b30f-41d4-8662-428ecf9c4e70)
+![Mindmap](https://github.com/user-attachments/assets/b4086367-e40c-4dae-9a4a-a2035f918556)
 
 
 
 **Задача 2 (3. составление чек-листа к экрану "Статус заказа")**
 
-![Диана Малафеева — диплом - Задание 2_ чек-лист (1)-01](https://github.com/Diana-Malafeeva/-/assets/162698888/88e63c1d-d294-449c-9e20-8910a05e6542)
+![image](https://github.com/user-attachments/assets/20864353-fb36-4eeb-abf0-343e361b7419)
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
 
 
+
 **Задача 2 (4. проверка на валидацию полей для экрана "Сделать заказ")**
 
-![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/93851bb4-ea1a-4c9f-b4b6-e8d9eb0cb709)
+![image](https://github.com/user-attachments/assets/dd43d4f6-db95-4286-ac85-f0d4c4360dd6)
+![image](https://github.com/user-attachments/assets/30a0473d-3f9d-4322-820d-84cb0afc5b25)
+![image](https://github.com/user-attachments/assets/334bc35f-fc8b-4928-a309-7f9baa85858c)
+
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
@@ -1700,7 +1696,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (5. проверка всей функциональности - баги вне тестовой документации)**
 
-![Диана Малафеева — диплом - Задание 2_ баги вне тестовой документации](https://github.com/Diana-Malafeeva/-/assets/162698888/57e0702b-a917-46b6-967d-7d9f55265b01)
+!![image](https://github.com/user-attachments/assets/726e2c77-6b32-4a14-b34a-5f738496ed89)
+
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
@@ -1708,14 +1705,18 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 3 (2. проектировка тест-кейсов и тестирование функциональности мобильного приложения Яндекс.Самокат)**
 
-![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/bb7a86a7-ee91-4845-a689-de3f3f05e090)
+
+![image](https://github.com/user-attachments/assets/e6f86976-84a6-4a4b-adc5-c028ed0ad40f)
+![image](https://github.com/user-attachments/assets/873b6a5d-35d7-4b28-895f-3ca37793d04f)
+
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1BRsmyhv8nKH3p5zU0cEf-0UJL9FiD7rzQr7LMtnrd9g/edit#gid=424948590)
 
 
 **Задача 4 (2. разработать чек-лист и протестировать АPI по требованиям)**
 
-![Диана Малафеева — диплом - Задание 4_ чек-лист](https://github.com/Diana-Malafeeva/-/assets/162698888/57f99156-6073-468a-aab7-21ac92f8137a)
+![image](https://github.com/user-attachments/assets/4e350345-1fcd-4edc-90f1-a0efdd2eef84)
+
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
