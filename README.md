@@ -1522,7 +1522,6 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 3 (проектирование тестовой документации)**
 ![image](https://github.com/user-attachments/assets/1fad5198-b612-43f9-ad22-e8ef4bd92d5d)
-
 </details>
 
 
@@ -1587,7 +1586,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=1396138851)
-#
+
 </details>
 
 
@@ -1613,7 +1612,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 **Задача 3 (тестирование мобильного приложения в эмуляторе с помощью Android Studio, баг-репорты)**
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1kUMrxc_g4ETnI8Z0WZFfWV03ZifE-WCXMFM0itfoig0/edit#gid=2006427015)
-#
+
 </details>
 
 
@@ -1647,8 +1646,6 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 ![image](https://github.com/user-attachments/assets/36b469ec-9e28-429d-8b67-b6177d801c3b)
 ![image](https://github.com/user-attachments/assets/18e4156f-e5f9-480b-8e92-ea2b68312906)
 
-
-#
 </details>
 
 
@@ -1714,5 +1711,5 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
-#
+
 </details>
