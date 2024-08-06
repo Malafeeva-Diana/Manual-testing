@@ -1588,8 +1588,6 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=1396138851)
-
-
 #
 </details>
 
@@ -1610,15 +1608,12 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 ![image](https://github.com/user-attachments/assets/6ece1d60-2831-4de6-9aee-fa5224d17c9c)
 
 
-Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
+[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
 
 
 **Задача 3 (тестирование мобильного приложения в эмуляторе с помощью Android Studio, баг-репорты)**
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1kUMrxc_g4ETnI8Z0WZFfWV03ZifE-WCXMFM0itfoig0/edit#gid=2006427015)
-
-
-
 #
 </details>
 
@@ -1696,7 +1691,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (5. проверка всей функциональности - баги вне тестовой документации)**
 
-!![image](https://github.com/user-attachments/assets/726e2c77-6b32-4a14-b34a-5f738496ed89)
+![image](https://github.com/user-attachments/assets/726e2c77-6b32-4a14-b34a-5f738496ed89)
 
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
