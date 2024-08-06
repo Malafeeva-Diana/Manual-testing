@@ -1206,7 +1206,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 Номер нового статуса в запросе = 3.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/ed829068-bd12-4f2f-b91d-9206db4d0f47)
+![image](https://github.com/user-attachments/assets/1e5dbe33-ee77-46fe-b281-3938e6417b6e)
+
 
 #### FAQ
 
@@ -1329,7 +1330,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 Приложение только в портретной ориентации.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/e9c89e48-fab6-4ac2-8d11-dbd051bf3cf9)
+![image](https://github.com/user-attachments/assets/58eaf525-d8f4-4b65-8305-1c4c042e37b0)
+
 
 #
 </details>
@@ -1445,14 +1447,15 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 количеству выводимых записей на странице и номер страницы. Подробнее об ошибках и кейсах применения в документации: /docs/#api-OrdersGetOrdersPageByPage
 - Должен присутствовать URL для получения количества выполненных заказов курьера. На вход должен подаваться id курьера. Подробнее об ошибках и кейсах использования в документации: /docs/#api-CouriersGetOrdersCountByCourierId
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/9c14b6d6-5da3-4b2d-9e08-ded35c35d27a)
+![image](https://github.com/user-attachments/assets/96c6dacd-4f91-4d85-90c1-1cbf23348869)
+
 
 ### Описание содержимого базы данных
 
 БД состоит из двух таблиц: Couriers и Orders. Первая таблица содержит данные
 о курьерах, вторая — данные о заказах.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/ddbc55b0-510a-4fd5-9ab2-9055bfee47cd)
+![image](https://github.com/user-attachments/assets/1fa8eb5b-e4ab-456f-9d3d-dce98d70c5da)
 
 #
 </details>
@@ -1497,24 +1500,27 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ***Mindmap***
 
-![Диаграмма интерфейс логика](https://github.com/Diana-Malafeeva/-/assets/162698888/e332353b-2ce7-4c64-9e24-4d0b0162ce54)
+![Диаграмма интерфейс логика](https://github.com/user-attachments/assets/5fd0b5b8-398c-4ef5-9f96-43be9d1b26a8)
 
 
 Далее провели повторный тест-анализ, используя диаграмму связей, а также подготовили **блок-схему** для транспорта "такси". Важно отметить, что другие виды транспорта были рассмотрены и проанализированы другими членами нашей команды тестировщиков.
 
-![Блок-схема drawio](https://github.com/Diana-Malafeeva/-/assets/162698888/a96fb1b9-1027-4769-842e-99e2a32ce9fd)
+![Блок-схема](https://github.com/user-attachments/assets/5eb4c464-196d-4582-9f9a-e37626a64fd9)
+
 
 **Задача 2 (планирование тестирования)**
 
 **Техники-тест дизайна**
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
-![Диана Малафеева 06 когорта - КЭ часть 1](https://github.com/Diana-Malafeeva/-/assets/162698888/2fced9f6-cf84-43a5-853a-6e6db915f5be)
-![Диана Малафеева 06 когорта - КЭ часть 2](https://github.com/Diana-Malafeeva/-/assets/162698888/c034a5fe-f3a1-461e-a55d-6c4ca664b219)
+[Диана Малафеева 06 когорта - КЭ часть 1.pdf](https://github.com/user-attachments/files/16510145/06.-.1.pdf)
+[Диана Малафеева 06 когорта - КЭ часть 2.pdf](https://github.com/user-attachments/files/16510147/06.-.2.pdf)
+
 
 
 **Задача 3 (проектирование тестовой документации)**
-![Диана Малафеева 06 когорта - Тест-кейсы логика интерфейса](https://github.com/Diana-Malafeeva/-/assets/162698888/3b340dd5-2826-4d95-9bb7-15ae677d6553)
+![image](https://github.com/user-attachments/assets/1fad5198-b612-43f9-ad22-e8ef4bd92d5d)
+
 
 #
 </details>
