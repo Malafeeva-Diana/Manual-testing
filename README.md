@@ -1519,8 +1519,6 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 ![image](https://github.com/user-attachments/assets/5eb59ee8-dcc7-4eb5-897b-4ffd9f40f86b)
 
 
-
-
 **Задача 3 (проектирование тестовой документации)**
 ![image](https://github.com/user-attachments/assets/1fad5198-b612-43f9-ad22-e8ef4bd92d5d)
 
@@ -1558,6 +1556,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![image](https://github.com/user-attachments/assets/d2c4aab7-1433-43e7-9c07-35a831109e27)
 
+
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
@@ -1574,6 +1573,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 ![image](https://github.com/user-attachments/assets/7391dd8c-0a60-4170-95bd-93195742f8ce)
 ![image](https://github.com/user-attachments/assets/d38c75d5-d124-4c90-a47c-c16fb91a2c4c)
 
+
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
@@ -1582,15 +1582,13 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=899462569)
 
-**Задача 7 (Чек-лист на аэротакси)**
+**Задача 5 (Чек-лист на аэротакси)**
 
 ![image](https://github.com/user-attachments/assets/5d2d5ff1-6bc3-4ae5-aed6-096506d27610)
 
 
-
-**Задача 8 (выполнение тестов)**
-
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1XkFppyOEh-FYumIx2jYWahpU8gJEUakv3army4VR1D0/edit#gid=1396138851)
+
 
 #
 </details>
@@ -1610,6 +1608,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 **Задача 2 (подготовка чек-листа для тестирования мобильного приложения на часть требований, выделенных жирным шрифтом)**
 
 ![image](https://github.com/user-attachments/assets/6ece1d60-2831-4de6-9aee-fa5224d17c9c)
+
+
 Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
 
 
