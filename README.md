@@ -267,7 +267,7 @@ t = S/V
 
 Под названиями режимов появится информация о стоимости и продолжительности поездки, а также кнопка «Забронировать».
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/09c265b4-e10b-42bf-940e-9173d743fad5)
+![image](https://github.com/user-attachments/assets/07cb9ae7-77b0-410f-8a98-72c12d373b24)
 
 Если нажать кнопку «Забронировать», вместо панели с названиями режимов появится форма бронирования. В форме нужно выбрать тариф, добавить информацию о водительских правах, указать способ оплаты. Дополнительно можно перечислить требования к заказу. 
 Под «Требованиями к заказу» расположена кнопка «Забронировать». См. таблицу [«Состояние кнопки»](https://www.notion.so/07f02ccc272e494db6501def032e9258?pvs=21).
@@ -277,9 +277,10 @@ t = S/V
 
 На экране бронирования можно удалять адреса — они необязательны для заказа каршеринга. Пользователь может выбрать нужную машину на карте.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/9a48d587-840b-442a-9553-025c15fab14f)
+![image](https://github.com/user-attachments/assets/5f9c14b9-c921-43e5-a673-38e7feabbe46)
 
-<img width="835" alt="__2021-09-20__12 02 25" src="https://github.com/Diana-Malafeeva/-/assets/162698888/6a4168e2-2240-4103-80b2-bffef4a93634">
+![image](https://github.com/user-attachments/assets/296a9dff-8e2b-43ab-a4c8-1b09136a02e5)
+
 
 По умолчанию выбран тариф «Повседневный», поля «Добавить права» и «Способ оплаты» не заполнены.
 Выбранный тариф подсвечивается серым. Под ним расположен блок с деталями тарифа и информацией о ближайшей машине:
@@ -296,7 +297,8 @@ t = S/V
 Если пользователь ещё не привязал банковскую карту, вместо слова «Карта» стоит слово «Добавить». Без карты забронировать машину нельзя.
 По умолчанию приложение показывает точную стоимость поездки. Она рассчитывается по формуле — см. пункт «Формула расчёта тарифов». Если удалить хотя бы один адрес из полей «Откуда» или «Куда», отобразится стартовая цена за минуту.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/b636b144-3994-43bf-98d2-dbf809792cd1)
+![image](https://github.com/user-attachments/assets/b1ef6802-8e51-4606-90e8-009e410b54cd)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Панель «Выбор тарифа»</h3>   
 Есть три тарифа. Каждый элемент состоит из иконки автомобиля, названия тарифа, цены.
@@ -306,9 +308,10 @@ t = S/V
 
 Под списком тарифов есть блок с подробным описанием выбранного тарифа.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/14d3709a-14f5-4754-b58e-a83afe041b9e)
+![image](https://github.com/user-attachments/assets/48be52c2-5888-49b5-9186-76168abe148c)
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/4ff39a20-3a72-4c89-bf84-ecbeb60435fe)
+![image](https://github.com/user-attachments/assets/43661d77-2511-4957-8dec-f3c801fb6594)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Формула расчёта стоимости тарифов</h3>  
 Стоимость тарифа рассчитывается по формуле:
@@ -337,7 +340,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
   
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Поле «Добавить права»</h3>  
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/0e854ef4-dfff-4736-a34b-11323672113b)
+![image](https://github.com/user-attachments/assets/3240d2a4-377f-40b6-90f9-d1e694227501)
+
 
 Если не добавить водительское удостоверение, забронировать машину не получится.
 По умолчанию поле «Добавить права» не заполнено. Когда пользователь нажимает на поле, появляется окно «Добавление прав». В нём нужно ввести имя, фамилию, дату рождения и номер водительского удостоверения.
@@ -345,7 +349,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 Когда пользователь внёс все данные, появляется сообщение: «Спасибо! Документы отправлены на проверку. Скоро расскажем о результатах». Под сообщением — кнопка «Понятно».
 Если нажать кнопку «Понятно», окно закроется, а в поле «Добавить права» появится таймер на 30 секунд. Через 30 секунд система сообщает, прошли ли документы верификацию.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/20c91375-ef56-4c49-ba08-e14451dab036)
+![image](https://github.com/user-attachments/assets/91be233e-4081-476d-be3b-86d34dcba03f)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">После верификации</h3> 
   
@@ -365,8 +370,10 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
   
 Внутри есть поле «Номер карты», поле «Код», кнопка «Привязать» и кнопка «Отмена». Кнопка «Привязать» активируется, когда пользователь ввёл реквизиты карты — номер и код.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/4085c753-2e5c-49db-8372-2e83e02abe15)
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/db45be8d-ef93-458f-a262-4b0f42b7ddae)
+![image](https://github.com/user-attachments/assets/7cd5bd59-738e-418f-90d7-659d045e2096)
+
+![image](https://github.com/user-attachments/assets/a3bd0606-d57f-44a5-a6e4-c1fc2d8af909)
+
 
 Когда карта добавлена, в интерфейсе отображаются последние 4 цифры её номера. Так пользователь может узнавать и отличать свои карты.
 
@@ -376,12 +383,14 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 У каждого тарифа содержимое панели разное.
 Панель можно скроллить.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/24310a05-6757-486a-ac1c-ef902d8fa91b)
+![image](https://github.com/user-attachments/assets/55728b93-2201-49e1-885a-7462ab9026c1)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Кнопка «Забронировать»</h3> 
 Кнопка закреплена в левом нижнем углу экрана.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/064ed9a2-bab4-4181-9efe-6bda64a5debc)
+![image](https://github.com/user-attachments/assets/64d660ad-20ca-4c3f-8945-c5d4e48e91dd)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Бронь машины</h3>
   
@@ -421,7 +430,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 - Запусти Яндекс.Маршруты.
 - Найди адрес сервера с Маршрутами → папка api → v1 → types → Response.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/31e39eb2-5227-4697-8041-dc3df86f4d60)
+![image](https://github.com/user-attachments/assets/eaf1229a-319e-41c3-94d5-17241908d6c1)
+
 
 Здесь содержится ответ с типами транспорта, которые отображаются в интерфейсе.
 В сообщении ты видишь параметры:
@@ -510,7 +520,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 - Найди адрес сервера с Маршрутами → папка api →  v1 → estimate?byAuto=2.7&byLegs=3.7&time=1677844934038 → Response. Этот ресурс появится, когда ты заполнишь поля «Откуда» и «Куда» или выберешь другой тип транспорта. Значение time будет другое, это пример.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/9aa21bb6-a6fe-40d3-b4b3-f6dd691ca208)
+![image](https://github.com/user-attachments/assets/b2fcc08f-effc-4ba1-ba28-22778ec999db)
 
 Здесь содержится ответ с расчётом времени и стоимости. Эти данные отображаются в интерфейсе.
 В сообщении ты видишь параметры:
@@ -613,7 +623,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 - **кнопка «Детали маршрута»;**
 - поля «Откуда» (начальный пункт) и «Куда» (пункт назначения) (поля должны валидироваться).
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/04b11231-634f-44e2-bd11-50fdb77fdd38)
+![image](https://github.com/user-attachments/assets/ce0d7de4-2363-4293-a622-45a40ba7df80)
+
 
 1.2. Сброс маршрута 
 
@@ -627,7 +638,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 - **тапом на схеме;**
 - **по иконке i из разных карточек маршрута. Если из поиска выбрать станцию тапом на i и закрыть карточку станции, должен происходить возврат на экран поиска;**
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/10eb42ad-c62c-41f4-b3ca-5bbb347b1253)
+![image](https://github.com/user-attachments/assets/3d99cb4b-90ec-4aff-bcc0-3e74121b1f62)
+
 
 - **найти в поиске и нажать на станцию.**
   
@@ -636,7 +648,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 - **Точка станции на схеме уменьшается.**
 - **На точке станции появляется пин цвета линии или специальный пин для закрытой станции.**
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/eea167e5-0022-4eb1-8672-3b2d04cfc3cb)
+![image](https://github.com/user-attachments/assets/1761e9a3-7db3-476f-80b1-a6b12aac9b38)
+
 
 - **Выбранная станция сохраняется в истории: при нажатии на поле «Откуда» или «Куда» раскрывается список, содержащий станции, которые пользователь выбирал ранее. Список должен сохраниться и в новой версии приложения.**
 - **Шрифт названия станции становится bold.**
@@ -701,7 +714,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 - **При нажатии на станцию при помощи лонг-тапа открывается карточка станции с кнопками «Отсюда»/«Сюда».**
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/a37b5a67-42a9-4f61-98f3-71358ebdbefe)
+![image](https://github.com/user-attachments/assets/ac4b41d7-9d51-4d5f-9fe6-de3119fcd857)
 
 - **Схема не должна смещаться вверх/вниз/влево/вправо при лонгтапе по станции.**
   
@@ -747,7 +760,8 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 - e-mail (необязательно);
 - комментарий к заказу (необязательно)
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/45f9c1b0-de69-4ab7-bca0-95a4706ac80a)
+![image](https://github.com/user-attachments/assets/4409e2cc-ac25-469d-ad7a-87486613f916)
+
 
 **Главное меню заказа**
 
@@ -779,7 +793,7 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 Пользователь может создать свой набор и выбрать продукты. Он обязательно даёт имя набору и выбирает продукты. Пользователь может изменить название набора, удалить набор, удалить выбранные продукты, добавить новые. Если данные при создании или изменении набора введены неверно — выводится сообщение об ошибке.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/14dd6458-4f73-4e8a-acac-c7098273ce63)
+![image](https://github.com/user-attachments/assets/7d496e25-cbdf-475e-a813-145566964f79)
 
 **Работа с курьерами**
 
@@ -812,13 +826,15 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 Детальные требования к расчёту стоимости доставки курьерскими службами можно посмотреть [тут](https://code.s3.yandex.net/qa/files/delivery_requirements.pdf).
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/2bb2e0f2-ab68-4ce2-a1b6-faa83e4f36df)
+![image](https://github.com/user-attachments/assets/200eae60-bdc9-42f6-a539-012510c1ef17)
+
 
 **Работа со складом**
 
 Имеется 4 складских отделения. У каждого склада своя ручка. У каждого свой ограниченный набор продуктов. Когда пользователь сделал заказ, ручка уточняет, какой склад сформирует заказ. Логика выбора склада: есть продукты на складе, должен работать во время заказа и самый дешёвый. Пользователь может заказать только те продукты и их количество, которые есть в полной мере хотя бы на одном складе (то есть ситуации, где он набрал корзину, а ему пишут «Не привезём» — нет).
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/47a3d623-dec3-418a-8e77-72f56cfe0de9)
+![image](https://github.com/user-attachments/assets/41d18ee9-bfd4-43cc-9b4c-34b27e0ee788)
+
 
 ### Список URL реализованных в API
 
@@ -876,19 +892,15 @@ __150 + (60 * 6 * 1.25) * 1.5 = 825__
 
 **Описание содержимого базы данных**
 
-![photo_2020-08-23_18 17 32](https://github.com/Diana-Malafeeva/-/assets/162698888/65bc4623-f991-4a74-93f2-f4abbd49bf5e)
+![image](https://github.com/user-attachments/assets/cc5cb9f7-b2de-4c3d-a995-8a4690caec34)
+![image](https://github.com/user-attachments/assets/5c1bbd07-17b6-4d37-acc3-7b2352da6b2c)
+![image](https://github.com/user-attachments/assets/41ff06ac-7b62-43aa-aad7-773a60ba580c)
+![image](https://github.com/user-attachments/assets/d7d42f72-c69c-46b3-b8cb-a2b291a36a53)
+![image](https://github.com/user-attachments/assets/5cdc79fe-6b81-48c5-80f9-25c1c9c45716)
+![image](https://github.com/user-attachments/assets/f8f30431-2d90-4747-bfab-cdbaff2d15dd)
+![image](https://github.com/user-attachments/assets/8544eb05-93f9-4291-9c3c-26d1b7928367)
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/69730fc9-2721-4919-9d4a-b15db398416a)
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/b5678695-81e9-48bf-b745-8484b3bb402f)
-
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/f88e6a88-89af-4aa1-bfb9-c33b744ff3e5)
-
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/ca94e092-8982-4279-ad6a-a6c1a71e1bc0)
-
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/7040e65d-796d-44f5-8703-38e05e5b340f)
-
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/ea3fc9a9-1d0c-49ec-af89-8e6ae9612e87)
 
 #
 </details>
