@@ -1661,7 +1661,10 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (3. составление чек-листа к экрану "Статус заказа")**
 
-![image](https://github.com/user-attachments/assets/20864353-fb36-4eeb-abf0-343e361b7419)
+![image](https://github.com/user-attachments/assets/b975b277-3c27-47d4-8ccb-1f297a91ed60)
+![image](https://github.com/user-attachments/assets/b2960684-27b3-47bd-bc13-88ffe37dfb2f)
+![image](https://github.com/user-attachments/assets/997b2422-bb1e-4cb4-91e1-2b187f1f947c)
+
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BДиплом%7D)
 
