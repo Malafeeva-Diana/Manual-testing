@@ -1515,8 +1515,9 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 **Техники-тест дизайна**
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
-![image](https://github.com/user-attachments/assets/49b9c95f-f4ba-403c-b1cc-d124117b45bb)
-![image](https://github.com/user-attachments/assets/5eb59ee8-dcc7-4eb5-897b-4ffd9f40f86b)
+![image](https://github.com/user-attachments/assets/02dfc92b-d583-4785-b40c-3f97945ecaf5)
+![image](https://github.com/user-attachments/assets/236d1cb8-e501-4ae4-9b69-70fd5b083c76)
+
 
 
 **Задача 3 (проектирование тестовой документации)**
