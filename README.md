@@ -22,11 +22,6 @@
 
 <li><a href="#%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">Процесс работы</a>
  
-  * [1 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы) 
-  * [2 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
-  * [3 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
-  * [4 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
-  * [5 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
 
 </ul>
 
@@ -146,9 +141,9 @@
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Макеты</h3>
 
+![276863729-997cac9c-8cd3-411a-bc75-8c2b4e434f73](https://github.com/user-attachments/assets/7a8c4ef5-4cd9-4954-9ae3-28e55942605c)
 ![276864048-7c922c18-2bf7-432c-9ae6-7aaa34ebd089](https://github.com/user-attachments/assets/5a53c555-c4dd-47bf-84bb-27a36b86c6fd)
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/fa01afc6-1068-4777-b122-14be5cf832c3)
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/77a4e537-274b-4e84-841d-ba68f6526925)
+![276863951-2ecdd524-c9ed-42d6-ad72-cda16f8f3c45](https://github.com/user-attachments/assets/4eaa4bda-70a8-4680-9c16-83c14c404a20)
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Интерфейс</h3>
 
@@ -175,13 +170,14 @@
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Ограничения</h3>
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/ed6b3417-bd68-4862-828b-579764cbc364)
+![image](https://github.com/user-attachments/assets/64b4c590-459b-4350-9483-add2419daf50)
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Логика расчёта</h3>
 
 Система получает данные о начале поездки, точке А и точке В. После этого рассчитывает продолжительность и стоимость поездки по определённому алгоритму.
  
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/2182a7b6-5589-4c52-8518-be80168ba9ab)
+![image](https://github.com/user-attachments/assets/d456115d-0cdd-426e-a8e5-3da928030909)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Алгоритм: формулы</h3>
   
@@ -195,23 +191,28 @@ t = S/V
 Вид транспорта, скорость и стоимость
 Расстояние, скорость и стоимость за минуту или километр можно получить из таблиц. Этих данных достаточно, чтобы рассчитать время и стоимость поездки для каждого вида транспорта.  
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/fa74c6a0-d443-47ce-b4d0-acb1672bd265)
+![image](https://github.com/user-attachments/assets/481a8550-9e21-4527-a6fc-ae88f87483da)
+
 
 Средняя скорость автомобиля
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/b34a4b1c-18b8-4b30-82cc-0ed3191f39f6)
+![image](https://github.com/user-attachments/assets/9df8e401-1137-4835-8419-41501096ef61)
+
 
 Средняя скорость такси с учётом движения по выделенным полосам
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/699980ca-3816-4aaf-8ae9-c70ce96e30ee)
+![image](https://github.com/user-attachments/assets/ae618763-e680-4dc4-ab57-795431db6ebb)
+
 
 Матрица расстояний между адресами для автомобильных дорог, в километрах
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/1951404a-14e0-4c49-9ae9-10f8a670162c)
+![image](https://github.com/user-attachments/assets/9b461b8c-9be4-46ec-bb1c-35ed09ffd606)
+
 
 Матрица расстояний между адресами для пешеходов, в километрах
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/a27ad190-327c-412b-9208-872b0efc4644)
+![image](https://github.com/user-attachments/assets/b325a1f1-eab0-4989-a7cb-c80f6420605d)
+
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Дополнительная информация</h3>
 
@@ -220,7 +221,7 @@ t = S/V
 Чтобы рассчитать время и стоимость маршрута, тестировщикам доступны таблицы со скоростью движения разных видов транспорта в разное время суток. 
 Если взять такие тестовые значения, что поездка захватит несколько временных интервалов, алгоритм выберет скорость автомобиля из того диапазона, в котором поездка началась.
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/5ba647ca-f373-40db-983d-ced8967e321d)
+![image](https://github.com/user-attachments/assets/c54e888c-adb9-4a87-af6e-d25530568d10)
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Фокус</h3>
 
