@@ -1514,7 +1514,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
 ![image](https://github.com/user-attachments/assets/49b9c95f-f4ba-403c-b1cc-d124117b45bb)
-[Диана Малафеева 06 когорта - КЭ часть 2.pdf](https://github.com/user-attachments/files/16510147/06.-.2.pdf)
+![image](https://github.com/user-attachments/assets/5eb59ee8-dcc7-4eb5-897b-4ffd9f40f86b)
+
 
 
 
