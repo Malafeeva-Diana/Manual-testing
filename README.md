@@ -1522,7 +1522,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 3 (проектирование тестовой документации)**
 ![image](https://github.com/user-attachments/assets/1fad5198-b612-43f9-ad22-e8ef4bd92d5d)
-#
+
 </details>
 
 
