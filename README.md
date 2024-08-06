@@ -22,11 +22,11 @@
 
 <li><a href="#%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">Процесс работы</a>
  
-  * [1 спринт](https://github.com/Diana-Malafeeva/-/edit/main/README.md#процесс-работы) 
-  * [2 спринт](https://github.com/Diana-Malafeeva/-/edit/main/README.md#процесс-работы)
-  * [3 спринт](https://github.com/Diana-Malafeeva/-/edit/main/README.md#процесс-работы)
-  * [4 спринт](https://github.com/Diana-Malafeeva/-/edit/main/README.md#процесс-работы)
-  * [5 спринт](https://github.com/Diana-Malafeeva/-/edit/main/README.md#процесс-работы)
+  * [1 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы) 
+  * [2 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
+  * [3 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
+  * [4 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
+  * [5 спринт](https://github.com/Malafeeva-Diana/-/edit/main/README.md#процесс-работы)
 
 </ul>
 
