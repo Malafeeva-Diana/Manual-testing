@@ -1508,6 +1508,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 ![Блок-схема](https://github.com/user-attachments/assets/5eb4c464-196d-4582-9f9a-e37626a64fd9)
 
 
+
+
 **Задача 2 (планирование тестирования)**
 
 **Техники-тест дизайна**
@@ -1527,6 +1529,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 </details>
 
 
+
+
 #
 
 <details> 
@@ -1540,9 +1544,11 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (Чек-лист на верстку)**
 
-![image](https://github.com/user-attachments/assets/2386188c-98fd-41cf-bae0-8de34e428ac9) 
-![image](https://github.com/user-attachments/assets/42bb727c-00a3-4873-a676-67aa0b75851f)
-![image](https://github.com/user-attachments/assets/83027954-20af-4d91-8c5b-238aa60e1355)
+![image](https://github.com/user-attachments/assets/5bd15757-9ebf-43b2-a8c3-67a4a7b5ce7f)
+![image](https://github.com/user-attachments/assets/274efe44-5147-4f30-af00-3a0e7963ada2)
+![image](https://github.com/user-attachments/assets/bf1d8e49-9de4-4590-9866-45397825293a)
+![image](https://github.com/user-attachments/assets/03371e8f-6fbe-4f56-a7a3-7003a8a1c866)
+
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
@@ -1550,13 +1556,16 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 3 (Чек-лист «Способ оплаты» и «Добавление карты»)**
 
-![image](https://github.com/user-attachments/assets/75794cf5-149f-4e95-898e-ca7645c44fe7)
+![image](https://github.com/user-attachments/assets/d2c4aab7-1433-43e7-9c07-35a831109e27)
+
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
 **Задача 3 (Тест-кейсы на кнопку «Забронировать»)**
 
 ![image](https://github.com/user-attachments/assets/f5758b00-8361-4821-ab03-6ed6d813d770)
+
+
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
@@ -1564,6 +1573,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 ![image](https://github.com/user-attachments/assets/7391dd8c-0a60-4170-95bd-93195742f8ce)
 ![image](https://github.com/user-attachments/assets/d38c75d5-d124-4c90-a47c-c16fb91a2c4c)
+
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
 
 
