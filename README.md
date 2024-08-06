@@ -146,10 +146,9 @@
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Макеты</h3>
 
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/0c0751c3-1480-4b68-b08d-d748e83f8465)
+![276864048-7c922c18-2bf7-432c-9ae6-7aaa34ebd089](https://github.com/user-attachments/assets/5a53c555-c4dd-47bf-84bb-27a36b86c6fd)
 ![image](https://github.com/Diana-Malafeeva/-/assets/162698888/fa01afc6-1068-4777-b122-14be5cf832c3)
 ![image](https://github.com/Diana-Malafeeva/-/assets/162698888/77a4e537-274b-4e84-841d-ba68f6526925)
-![image](https://github.com/Diana-Malafeeva/-/assets/162698888/87c53c72-7a20-42bd-9eba-3f58cd8700c8)
 
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Интерфейс</h3>
 
