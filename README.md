@@ -1513,7 +1513,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 **Техники-тест дизайна**
 На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
 
-[Диана Малафеева 06 когорта - КЭ часть 1.pdf](https://github.com/user-attachments/files/16510145/06.-.1.pdf)
+![image](https://github.com/user-attachments/assets/49b9c95f-f4ba-403c-b1cc-d124117b45bb)
 [Диана Малафеева 06 когорта - КЭ часть 2.pdf](https://github.com/user-attachments/files/16510147/06.-.2.pdf)
 
 
@@ -1539,27 +1539,33 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (Чек-лист на верстку)**
 
-![pictures (1)](https://github.com/Diana-Malafeeva/-/assets/162698888/21561dc3-0e4b-4136-91fb-b89b482422fd)
+![image](https://github.com/user-attachments/assets/2386188c-98fd-41cf-bae0-8de34e428ac9) 
+![image](https://github.com/user-attachments/assets/42bb727c-00a3-4873-a676-67aa0b75851f)
+![image](https://github.com/user-attachments/assets/83027954-20af-4d91-8c5b-238aa60e1355)
 
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+
+
 
 **Задача 3 (Чек-лист «Способ оплаты» и «Добавление карты»)**
 
-![pictures](https://github.com/Diana-Malafeeva/-/assets/162698888/8e1d0cbe-d079-4da3-9111-e8d1d8baff5b)
-
+![image](https://github.com/user-attachments/assets/75794cf5-149f-4e95-898e-ca7645c44fe7)
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+
 
 **Задача 3 (Тест-кейсы на кнопку «Забронировать»)**
 
-![pictures (2)](https://github.com/Diana-Malafeeva/-/assets/162698888/12ff3c49-3b55-482e-b07d-ba6142a5febf)
-
+![image](https://github.com/user-attachments/assets/f5758b00-8361-4821-ab03-6ed6d813d770)
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+
 
 **Задача 3 (Тест-кейсы на логику бронирования)**
 
-![pictures (4)](https://github.com/Diana-Malafeeva/-/assets/162698888/68a93f32-4220-42e0-b546-1c9e59176949)
-
+![image](https://github.com/user-attachments/assets/7391dd8c-0a60-4170-95bd-93195742f8ce)
+![image](https://github.com/user-attachments/assets/d38c75d5-d124-4c90-a47c-c16fb91a2c4c)
 [Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%202%7D)
+
+
 
 **Задача 4 (выполнение тестов)**
 
@@ -1567,7 +1573,8 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 7 (Чек-лист на аэротакси)**
 
-![Диана Малафеева, 2-й спринт - 5  Чек-лист на аэротакси](https://github.com/Diana-Malafeeva/-/assets/162698888/5221ba84-cfb4-47f1-a1b8-78027913d5e2)
+![image](https://github.com/user-attachments/assets/5d2d5ff1-6bc3-4ae5-aed6-096506d27610)
+
 
 
 **Задача 8 (выполнение тестов)**
@@ -1591,9 +1598,7 @@ https://www.figma.com/file/CLHnTSsOLTJiSJQl7TUNnd/Prilavok?node-id=0%3A1
 
 **Задача 2 (подготовка чек-листа для тестирования мобильного приложения на часть требований, выделенных жирным шрифтом)**
 
-![Диана Малафеева — 6-я когорта, 3-й спринт - Чек-лист_ мобильное приложение](https://github.com/Diana-Malafeeva/-/assets/162698888/69298706-ea87-42be-8dcc-8ec6a41ed7ca)
-
-[Ссылки на баг-репорты](https://diana-1.youtrack.cloud/issues?q=tag:%20%7BСпринт%203%7D)
+1111111111111111111111111111111111111111111111
 
 
 **Задача 3 (тестирование мобильного приложения в эмуляторе с помощью Android Studio, баг-репорты)**
